@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Job.TrxWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Local"
+      }
+    }
+  }
+}
